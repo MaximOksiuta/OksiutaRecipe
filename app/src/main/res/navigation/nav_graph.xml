@@ -30,4 +30,9 @@
         android:name="com.example.oksiutarecipe.fragments.FragmentAddNewFeed"
         android:label="fragment_add_new_feed"
         tools:layout="@layout/fragment_add_new_feed" />
+    <fragment
+        android:id="@+id/fragmentMyFeeds"
+        android:name="com.example.oksiutarecipe.fragments.FragmentMyFeeds"
+        android:label="fragment_my_feeds"
+        tools:layout="@layout/fragment_my_feeds" />
 </navigation>

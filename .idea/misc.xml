@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/borders.xml" value="0.4083333333333333" />
         <entry key="app/src/main/res/drawable/brown_circle.xml" value="0.4083333333333333" />
         <entry key="app/src/main/res/drawable/ic_vector.xml" value="0.23854166666666668" />
         <entry key="app/src/main/res/drawable/ic_vector_2.xml" value="0.23854166666666668" />
@@ -19,6 +20,7 @@
         <entry key="app/src/main/res/layout/fragment_3.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/fragment_4.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/fragment_add_new_feed.xml" value="0.36367753623188404" />
+        <entry key="app/src/main/res/layout/fragment_my_feeds.xml" value="0.3921875" />
         <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2828125" />
       </map>
     </option>

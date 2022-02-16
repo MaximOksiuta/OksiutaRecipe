@@ -19,5 +19,8 @@ class Fragment4:Fragment(R.layout.fragment_4) {
         it.btnNewFeed.setOnClickListener {
             findNavController().navigate(R.id.fragmentAddNewFeed2)
         }
+        it.button.setOnClickListener {
+            findNavController().navigate(R.id.fragmentMyFeeds)
+        }
     }.root
 }
