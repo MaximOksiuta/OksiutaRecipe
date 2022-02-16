@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:icon="@drawable/ic_vector_4"
+    android:id="fragment13"
+    android:title="Recipes"/>
+    <item
+        android:icon="@drawable/ic_vector"
+        android:id="fragment2"
+        android:title="2"/>
+    <item
+        android:icon="@drawable/ic_vector_2"
+        android:id="fragment3"
+        android:title="3"/>
+    <item
+        android:icon="@drawable/ic_vector_4"
+        android:id="fragment4"
+        android:title="Account"/>
+</menu>
